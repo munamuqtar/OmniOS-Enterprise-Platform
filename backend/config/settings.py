@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "apps.organizations",
     "apps.branches",
     "apps.access_control",
+    "apps.core",
     "apps.hr",
     "apps.recruitment",
     "apps.crm",
