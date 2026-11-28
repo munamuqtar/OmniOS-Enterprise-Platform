@@ -18,4 +18,6 @@ dist/
 .vscode/
 .idea/
 .DS_Store
+media/*
+!media/.gitkeep
 EOF
